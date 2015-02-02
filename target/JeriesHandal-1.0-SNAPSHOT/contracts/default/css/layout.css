@@ -839,6 +839,9 @@ call-to-action .button {
 	float: left;
    width: 26%;
 }
+#contact textarea{
+    resize: none;
+}
 #contact input,
 #contact textarea,
 #contact select {
